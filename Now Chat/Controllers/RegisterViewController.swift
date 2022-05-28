@@ -1,7 +1,11 @@
 //
 //  RegisterViewController.swift
+//  Now Chat
+//
+//  Created by Yash Mishra on 5/28/22.
 //
 
+import Foundation
 import UIKit
 import Firebase
 

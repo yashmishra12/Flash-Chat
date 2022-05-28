@@ -15,9 +15,9 @@
 		CC09AD2428426602008355F0 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC09AD1C28426602008355F0 /* ChatViewController.swift */; };
 		CC09AD2528426602008355F0 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC09AD1D28426602008355F0 /* WelcomeViewController.swift */; };
 		CC09AD2628426602008355F0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC09AD1E28426602008355F0 /* LoginViewController.swift */; };
-		CC09AD2728426602008355F0 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC09AD1F28426602008355F0 /* RegisterViewController.swift */; };
-		CC09AD2828426602008355F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC09AD2128426602008355F0 /* Main.storyboard */; };
 		CC13E4DD28426B8300E8B20F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CC13E4DC28426B8300E8B20F /* GoogleService-Info.plist */; };
+		CC55B3C42842C33200B16F77 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC55B3C32842C33200B16F77 /* RegisterViewController.swift */; };
+		CC55B3C92842C47100B16F77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC55B3C72842C47100B16F77 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,9 +33,9 @@
 		CC09AD1C28426602008355F0 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		CC09AD1D28426602008355F0 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		CC09AD1E28426602008355F0 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		CC09AD1F28426602008355F0 /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
-		CC09AD2228426602008355F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CC13E4DC28426B8300E8B20F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		CC55B3C32842C33200B16F77 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		CC55B3C82842C47100B16F77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +106,7 @@
 				CC09AD1C28426602008355F0 /* ChatViewController.swift */,
 				CC09AD1D28426602008355F0 /* WelcomeViewController.swift */,
 				CC09AD1E28426602008355F0 /* LoginViewController.swift */,
-				CC09AD1F28426602008355F0 /* RegisterViewController.swift */,
+				CC55B3C32842C33200B16F77 /* RegisterViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -114,7 +114,7 @@
 		CC09AD2028426602008355F0 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				CC09AD2128426602008355F0 /* Main.storyboard */,
+				CC55B3C72842C47100B16F77 /* Main.storyboard */,
 			);
 			name = Views;
 			path = "../../../Practise_Repo/Flash-Chat-iOS13/Flash Chat iOS13/Views";
@@ -182,8 +182,8 @@
 			files = (
 				CC09AD112842658C008355F0 /* LaunchScreen.storyboard in Resources */,
 				CC13E4DD28426B8300E8B20F /* GoogleService-Info.plist in Resources */,
-				CC09AD2828426602008355F0 /* Main.storyboard in Resources */,
 				CC09AD0E2842658C008355F0 /* Assets.xcassets in Resources */,
+				CC55B3C92842C47100B16F77 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,9 +237,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC09AD2628426602008355F0 /* LoginViewController.swift in Sources */,
-				CC09AD2728426602008355F0 /* RegisterViewController.swift in Sources */,
 				CC09AD2528426602008355F0 /* WelcomeViewController.swift in Sources */,
 				CC09AD052842658C008355F0 /* AppDelegate.swift in Sources */,
+				CC55B3C42842C33200B16F77 /* RegisterViewController.swift in Sources */,
 				CC09AD2428426602008355F0 /* ChatViewController.swift in Sources */,
 				CC09AD072842658C008355F0 /* SceneDelegate.swift in Sources */,
 			);
@@ -256,13 +256,14 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		CC09AD2128426602008355F0 /* Main.storyboard */ = {
+		CC55B3C72842C47100B16F77 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CC09AD2228426602008355F0 /* Base */,
+				CC55B3C82842C47100B16F77 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
+			path = "/Users/yashmishra12/MyStuff/iOS/Work/Now Chat/Now Chat/Views";
+			sourceTree = "<absolute>";
 		};
 /* End PBXVariantGroup section */
 
