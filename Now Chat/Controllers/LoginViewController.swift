@@ -16,7 +16,7 @@ class LoginViewController: UIViewController {
             Auth.auth().signIn(withEmail: email, password: password) { authResult, error in
                 if let e = error { self.errorAlert(title: "Login Error", e.localizedDescription)}
                 else {
-                    self.performSegue(withIdentifier: "LoginToChat", sender: self)
+                    self.performSegue(withIdentifier: K.loginSegue, sender: self)
                 }
             }
         }
