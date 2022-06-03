@@ -13,13 +13,13 @@ User can register with an email address and password chat with one another in a 
 ## Screenshot
 ### Welcome Screen
 <div>
-  <img src = "Screenshots/Welcom.png">
+  <img src = "Screenshots/Welcome.png">
 </div>
 
 ### Registration Screen
 <div>
   <span>
-  <img src="Screenshots/Registration.png.png" height="800"> 
+  <img src="Screenshots/Registration.png" height="800"> 
       <p>Email and Password needed for Registration</p>
   </span>
   <span>
