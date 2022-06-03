@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "MeAvatar.png",
+      "filename" : "superhero.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "MeAvatar@2x.png",
+      "filename" : "superhero@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "MeAvatar@3x.png",
+      "filename" : "superhero@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
