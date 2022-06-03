@@ -1,7 +1,6 @@
 //
 //  Messages.swift
 //  Now Chat
-//
 //  Created by Yash Mishra on 5/30/22.
 //
 

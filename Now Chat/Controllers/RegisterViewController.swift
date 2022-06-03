@@ -1,7 +1,6 @@
 //
 //  RegisterViewController.swift
 //  Now Chat
-//
 //  Created by Yash Mishra on 5/28/22.
 //
 
