@@ -7,27 +7,27 @@ iOS Messaging Application
 User can register with an email address and password chat with one another in a common messaging group. 
 
 ## Workflow
-<img src="Screenshots/CompleteFlow.png">
+<img src="Screenshots/CompleteFlow.png" height="600">
 
 
 ## Screenshot
 ### Welcome Screen
 <div>
-  <img src = "Screenshots/Welcome.png">
+  <img src = "Screenshots/Welcome.png" height="600">
 </div>
 
 ### Registration Screen
 <div>
   <span>
-  <img src="Screenshots/Registration.png" height="800"> 
+  <img src="Screenshots/Registration.png" height="600"> 
       <p>Email and Password needed for Registration</p>
   </span>
   <span>
-  <img src="Screenshots/ShortPasswordError.png" height="800"> 
+  <img src="Screenshots/ShortPasswordError.png" height="600"> 
     <p>Error Message on registering with short password</p>
   </span>
    <span>
-  <img src="Screenshots/BadEmail.png" height="800"> 
+  <img src="Screenshots/BadEmail.png" height="600"> 
     <p>Error Message on registering with bad email</p>
   </span>
 </div>
@@ -35,11 +35,11 @@ User can register with an email address and password chat with one another in a 
 ### Login Screen
 <div>
 <span>
-  <img src="Screenshots/Login.png" height="800"> 
+  <img src="Screenshots/Login.png" height="600"> 
       <p>Login Credentials</p>
   </span>
   <span>
-  <img src="Screenshots/LoginError.png" height="800"> 
+  <img src="Screenshots/LoginError.png" height="600"> 
         <p>Error Message on incorrect login credentials</p>
   </span>
 </div>
