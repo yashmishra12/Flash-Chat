@@ -1,4 +1,4 @@
-<img src="ScreenShots/nowChatLogo.png" width="200"> 
+<img src="Screenshots/nowChatLogo.png" width="200"> 
 
 # Now Chat
 iOS Messaging Application
@@ -7,27 +7,27 @@ iOS Messaging Application
 User can register with an email address and password chat with one another in a common messaging group. 
 
 ## Workflow
-<img src="ScreenShots/CompleteFlow.png">
+<img src="Screenshots/CompleteFlow.png">
 
 
 ## Screenshot
 ### Welcome Screen
 <div>
-  <img src = "ScreenShots/Welcom.png">
+  <img src = "Screenshots/Welcom.png">
 </div>
 
 ### Registration Screen
 <div>
   <span>
-  <img src="ScreenShots/Registration.png.png" height="800"> 
+  <img src="Screenshots/Registration.png.png" height="800"> 
       <p>Email and Password needed for Registration</p>
   </span>
   <span>
-  <img src="ScreenShots/ShortPasswordError.png" height="800"> 
+  <img src="Screenshots/ShortPasswordError.png" height="800"> 
     <p>Error Message on registering with short password</p>
   </span>
    <span>
-  <img src="ScreenShots/BadEmail.png" height="800"> 
+  <img src="Screenshots/BadEmail.png" height="800"> 
     <p>Error Message on registering with bad email</p>
   </span>
 </div>
@@ -35,11 +35,11 @@ User can register with an email address and password chat with one another in a 
 ### Login Screen
 <div>
 <span>
-  <img src="ScreenShots/Login.png" height="800"> 
+  <img src="Screenshots/Login.png" height="800"> 
       <p>Login Credentials</p>
   </span>
   <span>
-  <img src="ScreenShots/LoginError.png" height="800"> 
+  <img src="Screenshots/LoginError.png" height="800"> 
         <p>Error Message on incorrect login credentials</p>
   </span>
 </div>
