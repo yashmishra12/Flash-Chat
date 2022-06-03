@@ -17,6 +17,22 @@ User can register with an email address and password chat with one another in a 
 </div>
 
 ### Registration Screen
+
+
+<table>
+  <tr>
+    <td>Email and Password needed for Registration</td>
+     <td>Error Message on registering with short password</td>
+     <td>Error Message on registering with bad email </td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Registration.png" height="600">  </td>
+    <td> <img src="Screenshots/ShortPasswordError.png" height="600"> </td>
+    <td>  <img src="Screenshots/BadEmail.png" height="600"> </td>
+  </tr>
+ </table>
+
+<!-- 
 <div>
   <span>
   <img src="Screenshots/Registration.png" height="600"> 
@@ -30,7 +46,7 @@ User can register with an email address and password chat with one another in a 
   <img src="Screenshots/BadEmail.png" height="600"> 
     <p>Error Message on registering with bad email</p>
   </span>
-</div>
+</div> -->
 
 ### Login Screen
 <div>
@@ -49,6 +65,6 @@ User can register with an email address and password chat with one another in a 
 - User 2: xyz@xyz.com, xyzxyz  
   
 ## Credit 
-SpiderMan Display Picture: <a href="https://www.flaticon.com/free-icons/spiderman" title="Spiderman icons">Spiderman icons created by sketchandbuild - Flaticon</a>
-Wolverine Display Picture: <a href="https://www.flaticon.com/free-icons/superhero" title="superhero icons">Superhero icons created by Stockio - Flaticon</a>
+- SpiderMan Display Picture: <a href="https://www.flaticon.com/free-icons/spiderman" title="Spiderman icons">Spiderman icons created by sketchandbuild - Flaticon</a>
+- Wolverine Display Picture: <a href="https://www.flaticon.com/free-icons/superhero" title="superhero icons">Superhero icons created by Stockio - Flaticon</a>
 
