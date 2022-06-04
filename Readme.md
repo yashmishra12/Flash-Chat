@@ -1,9 +1,6 @@
 
 
-<h1 style="font-size:10vw"> 
-  <img src="Screenshots/nowChatLogo.png" width="200" style="float:left"> 
-  Now Chat 
-</h1> 
+<img src="Screenshots/nowChatLogo.png" width="200" style="margin-left:15%; margin-right:15%;"> 
 
 ## Now Chat
 iOS Messaging Application
