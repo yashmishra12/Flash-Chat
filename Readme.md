@@ -1,6 +1,6 @@
 
 <p style="text-align:center">
-<img src="Screenshots/nowChatLogo.png" width="200" style="display:block; margin-left: auto; margin-right: auto;"> 
+<img src="Screenshots/nowChatLogo.png" style="display:block; margin-left: auto; margin-right: auto;"> 
 </p>
 
 ## Now Chat
