@@ -1,6 +1,9 @@
-<img src="Screenshots/nowChatLogo.png" width="200" style="float:left"> 
 
-# Now Chat
+
+<h1> 
+  <img src="Screenshots/nowChatLogo.png" width="200" style="float:left"> 
+  Now Chat 
+</h1> 
 iOS Messaging Application
 
 ## Description
