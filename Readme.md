@@ -1,4 +1,4 @@
-<img src="Screenshots/nowChatLogo.png" width="200"> 
+<img src="Screenshots/nowChatLogo.png" width="200" style="float:left"> 
 
 # Now Chat
 iOS Messaging Application
@@ -32,33 +32,18 @@ User can register with an email address and password chat with one another in a 
   </tr>
  </table>
 
-<!-- 
-<div>
-  <span>
-  <img src="Screenshots/Registration.png" height="600"> 
-      <p>Email and Password needed for Registration</p>
-  </span>
-  <span>
-  <img src="Screenshots/ShortPasswordError.png" height="600"> 
-    <p>Error Message on registering with short password</p>
-  </span>
-   <span>
-  <img src="Screenshots/BadEmail.png" height="600"> 
-    <p>Error Message on registering with bad email</p>
-  </span>
-</div> -->
-
 ### Login Screen
-<div>
-<span>
-  <img src="Screenshots/Login.png" height="600"> 
-      <p>Login Credentials</p>
-  </span>
-  <span>
-  <img src="Screenshots/LoginError.png" height="600"> 
-        <p>Error Message on incorrect login credentials</p>
-  </span>
-</div>
+
+<table>
+  <tr>
+    <td>Login Credentials</td>
+     <td>Error Message on incorrect login credentials</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Login.png" height="600">   </td>
+    <td>  <img src="Screenshots/LoginError.png" height="600"> </td>
+  </tr>
+ </table>
   
 ## Dummy Login Credentials 
 - User 1: abc@abc.com, abcabc
