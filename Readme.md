@@ -1,6 +1,6 @@
 
 
-<img src="Screenshots/nowChatLogo.png" width="200" style="margin-left:15%; margin-right:15%;"> 
+<img src="Screenshots/nowChatLogo.png" width="200" style="display:block; margin-left: auto; margin-right: auto;"> 
 
 ## Now Chat
 iOS Messaging Application
